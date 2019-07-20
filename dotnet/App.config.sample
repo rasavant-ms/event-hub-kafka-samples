@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="EH_FQDN" value=""/>
+    <add key="EH_CONNECTION_STRING" value=""/>
+    <add key="EH_NAME" value="new-rj-eh1"/>
+    <add key="CONSUMER_GROUP" value="new-rj-eh1-cg"/>
+    <add key="CA_CERT_LOCATION" value="./cacert.pem"/>
+    <add key="TenantId" value=""/>
+    <add key="ClientId" value=""/>
+    <add key="ClientSecret" value=""/>
+    <add key="SubscriptionId" value=""/>
+    <add key="DataCenterLocation" value="East US"/>
+    <add key="ResourceGroupName" value="rseroutput"/>
+    <add key="NamespaceName" value="m-dev-test"/>
+    <add key="NumOfPartitions" value="100"/>
+  </appSettings>
+</configuration>
+

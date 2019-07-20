@@ -1,0 +1,15 @@
+{
+  "EH_FQDN": "",
+  "EH_CONNECTION_STRING": "",
+  "EH_NAME": "new-rj-eh1",
+  "CONSUMER_GROUP": "new-rj-eh1-cg",
+  "CA_CERT_LOCATION": "./cacert.pem",
+  "TenantId": "",
+  "ClientId": "",
+  "ClientSecret": "",
+  "SubscriptionId": "",
+  "DataCenterLocation": "East US",
+  "ResourceGroupName": "rseroutput",
+  "NamespaceName": "m-dev-test",
+  "NumOfPartitions": "100"
+}
