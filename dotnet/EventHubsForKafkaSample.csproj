@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Confluent.Kafka" Version="1.1.0" />
     <!-- Version="1.0.0-beta" />-->
-	<PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+	<PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9." />
 	<PackageReference Include="Microsoft.Azure.Management.EventHub" Version="2.5.0" />
 	<PackageReference Include="Microsoft.Azure.Management.ResourceManager" Version="2.2.0-preview" />
 	<PackageReference Include="Microsoft.IdentityModel.Clients.ActiveDirectory" Version="5.1.0" />
