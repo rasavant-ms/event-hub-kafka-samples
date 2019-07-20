@@ -1,4 +1,4 @@
-# Send and Receive Messages in C# using Azure Event Hubs for Apache Kafka Ecosystems
+# Create Event Hubs, Consumer Group and Send, Receive Messages using Azure Event Hubs for Apache Kafka Ecosystems
 
 This quickstart is a combination of the samples for [Sending and Receiving messages in C# using Azure Event Hubs for Apache Kafka Ecosystems](https://github.com/Azure/azure-event-hubs-for-kafka/tree/master/quickstart/dotnet) with [Event Hubs Management Library Sample](https://github.com/Azure/azure-event-hubs/tree/master/samples/Management/DotNet)
 
